@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,My name is Lei Wang. I received my BS degree in Engineering Mechanics from China University of Mining and Technology in 2024 and is currently pursuing my master’s degree in the research group of Prof. Yilun Liu
+Hi,there! My name is Lei Wang. I received my BS degree in Engineering Mechanics from China University of Mining and Technology in 2024 and is currently pursuing my master’s degree in the research group of Prof. Yilun Liu
 at Xi’an Jiaotong University, China. My research interests primarily focus on strain modulation of catalytic performance in materials and ML guided inverse design of catalysts.
 
 A data-driven personal website
